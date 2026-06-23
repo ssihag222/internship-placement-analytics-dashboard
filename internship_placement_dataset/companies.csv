@@ -1,0 +1,326 @@
+company_id,company_name,industry,company_type
+C0001,DataNest Consulting,Consulting,Non-profit
+C0002,DataNest Technologies,Finance,Startup
+C0003,EduSphere Systems,EdTech,Startup
+C0004,DataNest Systems,Manufacturing,Mid-size
+C0005,TeleLink Labs,Energy,Government
+C0006,Vertex Ventures,Consulting,Mid-size
+C0007,Finova Analytics,Finance,Mid-size
+C0008,TeleLink Analytics,Automotive,MNC
+C0009,CloudNova Technologies,Healthcare,Startup
+C0010,Nexa Systems,EdTech,Mid-size
+C0011,EduSphere Technologies,Energy,Mid-size
+C0012,BluePeak Analytics,Technology,Non-profit
+C0013,Apex Solutions,Technology,MNC
+C0014,CloudNova Solutions,Healthcare,Mid-size
+C0015,MedAxis Labs,Manufacturing,Startup
+C0016,Vertex Solutions,EdTech,MNC
+C0017,AutoCore Technologies,Healthcare,Mid-size
+C0018,Nexa Analytics,E-commerce,Government
+C0019,UrbanCart Labs,Technology,MNC
+C0020,InsightWorks Systems,Finance,MNC
+C0021,UrbanCart Consulting,Energy,Mid-size
+C0022,Apex Systems 22,Manufacturing,Startup
+C0023,EduSphere Ventures,Energy,Mid-size
+C0024,InsightWorks Labs 24,E-commerce,Startup
+C0025,UrbanCart Technologies,Energy,Startup
+C0026,BluePeak Systems 26,Manufacturing,Mid-size
+C0027,AutoCore Consulting,Finance,Startup
+C0028,BluePeak Ventures,Telecom,MNC
+C0029,BluePeak Labs,Consulting,Startup
+C0030,Vertex Technologies,Healthcare,Startup
+C0031,GreenGrid Analytics 31,Finance,MNC
+C0032,EduSphere Consulting 32,Energy,Government
+C0033,GreenGrid Consulting,Energy,Non-profit
+C0034,InsightWorks Consulting,E-commerce,MNC
+C0035,EduSphere Consulting 35,Automotive,MNC
+C0036,MedAxis Technologies 36,Manufacturing,Startup
+C0037,EduSphere Labs,Automotive,Startup
+C0038,Nexa Consulting,Manufacturing,Government
+C0039,TeleLink Technologies,Finance,MNC
+C0040,CloudNova Consulting 40,Automotive,Government
+C0041,PrimeEdge Ventures,Automotive,MNC
+C0042,MedAxis Technologies,Healthcare,MNC
+C0043,Apex Analytics,Consulting,Startup
+C0044,DataNest Labs,E-commerce,MNC
+C0045,DataNest Analytics 45,Consulting,Non-profit
+C0046,Vertex Systems 46,Telecom,MNC
+C0047,UrbanCart Analytics,Manufacturing,Mid-size
+C0048,Apex Ventures,Energy,Mid-size
+C0049,Nexa Technologies 49,E-commerce,Mid-size
+C0050,Finova Consulting,Manufacturing,Government
+C0051,InsightWorks Solutions,Energy,MNC
+C0052,GreenGrid Solutions,Energy,Government
+C0053,GreenGrid Analytics 53,Manufacturing,Startup
+C0054,Finova Technologies,Finance,MNC
+C0055,GreenGrid Consulting 55,E-commerce,Mid-size
+C0056,GreenGrid Analytics 56,Telecom,MNC
+C0057,MedAxis Systems,Technology,Startup
+C0058,MedAxis Ventures,Healthcare,MNC
+C0059,Nexa Systems 59,Healthcare,Mid-size
+C0060,AutoCore Ventures,Finance,MNC
+C0061,Apex Consulting,Telecom,MNC
+C0062,UrbanCart Solutions 62,Energy,Startup
+C0063,DataNest Analytics 63,Energy,Startup
+C0064,BluePeak Analytics 64,E-commerce,Mid-size
+C0065,BluePeak Technologies,Automotive,Startup
+C0066,BluePeak Systems 66,Automotive,Mid-size
+C0067,EduSphere Analytics,Energy,Mid-size
+C0068,UrbanCart Solutions 68,EdTech,Mid-size
+C0069,Finova Labs 69,Energy,Mid-size
+C0070,AutoCore Labs,E-commerce,Mid-size
+C0071,InsightWorks Labs,Telecom,MNC
+C0072,PrimeEdge Technologies 72,Consulting,Startup
+C0073,Nexa Solutions,EdTech,Mid-size
+C0074,PrimeEdge Labs,E-commerce,MNC
+C0075,AutoCore Systems,EdTech,Startup
+C0076,MedAxis Solutions,Finance,Startup
+C0077,GreenGrid Systems 77,Finance,Mid-size
+C0078,Apex Systems,Consulting,Government
+C0079,DataNest Ventures,Automotive,Startup
+C0080,Apex Labs 80,Automotive,Startup
+C0081,AutoCore Consulting 81,Healthcare,Mid-size
+C0082,Nexa Ventures,EdTech,MNC
+C0083,Nexa Labs,Manufacturing,Startup
+C0084,Nexa Ventures 84,Energy,Government
+C0085,GreenGrid Technologies 85,Energy,MNC
+C0086,Apex Technologies 86,Consulting,MNC
+C0087,UrbanCart Solutions,Energy,Mid-size
+C0088,Nexa Technologies 88,Finance,MNC
+C0089,UrbanCart Ventures 89,Telecom,MNC
+C0090,DataNest Labs 90,EdTech,MNC
+C0091,DataNest Consulting 91,Finance,Mid-size
+C0092,MedAxis Solutions 92,Energy,Startup
+C0093,GreenGrid Solutions 93,Telecom,Mid-size
+C0094,DataNest Analytics,Automotive,Mid-size
+C0095,CloudNova Analytics 95,Consulting,Startup
+C0096,BluePeak Labs 96,Healthcare,MNC
+C0097,AutoCore Analytics,Manufacturing,Non-profit
+C0098,Apex Ventures 98,Telecom,Mid-size
+C0099,CloudNova Labs 99,Manufacturing,Government
+C0100,Finova Labs,E-commerce,Mid-size
+C0101,PrimeEdge Analytics,EdTech,Mid-size
+C0102,EduSphere Consulting 102,EdTech,MNC
+C0103,Finova Ventures,Telecom,Startup
+C0104,TeleLink Ventures 104,EdTech,Startup
+C0105,Nexa Systems 105,Manufacturing,Mid-size
+C0106,DataNest Analytics 106,Manufacturing,Startup
+C0107,MedAxis Analytics,Automotive,Startup
+C0108,Finova Consulting 108,E-commerce,Non-profit
+C0109,GreenGrid Analytics 109,Technology,MNC
+C0110,InsightWorks Technologies 110,Consulting,Mid-size
+C0111,Nexa Solutions 111,Automotive,Mid-size
+C0112,TeleLink Labs 112,E-commerce,Mid-size
+C0113,EduSphere Ventures 113,Automotive,Startup
+C0114,UrbanCart Systems 114,Consulting,Mid-size
+C0115,DataNest Solutions 115,Healthcare,MNC
+C0116,PrimeEdge Technologies,EdTech,Startup
+C0117,BluePeak Technologies 117,Manufacturing,MNC
+C0118,Vertex Ventures 118,Automotive,Startup
+C0119,PrimeEdge Consulting,Consulting,MNC
+C0120,CloudNova Consulting,Finance,Non-profit
+C0121,GreenGrid Systems,E-commerce,Mid-size
+C0122,PrimeEdge Systems 122,Telecom,Government
+C0123,CloudNova Systems,Consulting,MNC
+C0124,Vertex Solutions 124,Finance,Mid-size
+C0125,TeleLink Systems 125,Technology,MNC
+C0126,PrimeEdge Labs 126,Telecom,Startup
+C0127,EduSphere Technologies 127,EdTech,MNC
+C0128,InsightWorks Technologies,EdTech,Startup
+C0129,GreenGrid Labs,E-commerce,MNC
+C0130,PrimeEdge Ventures 130,Telecom,Mid-size
+C0131,Vertex Analytics 131,Energy,MNC
+C0132,AutoCore Solutions 132,Technology,MNC
+C0133,MedAxis Consulting,Consulting,Startup
+C0134,PrimeEdge Systems,Telecom,Mid-size
+C0135,BluePeak Consulting,Manufacturing,Non-profit
+C0136,Vertex Consulting,Manufacturing,MNC
+C0137,Nexa Technologies,Telecom,Mid-size
+C0138,TeleLink Solutions,Energy,Startup
+C0139,MedAxis Ventures 139,Energy,Government
+C0140,InsightWorks Ventures,Technology,Startup
+C0141,GreenGrid Ventures,Technology,MNC
+C0142,UrbanCart Technologies 142,Healthcare,Mid-size
+C0143,AutoCore Systems 143,Automotive,Mid-size
+C0144,EduSphere Solutions,Manufacturing,Mid-size
+C0145,Nexa Consulting 145,EdTech,Startup
+C0146,EduSphere Solutions 146,Automotive,MNC
+C0147,DataNest Systems 147,Consulting,Mid-size
+C0148,CloudNova Systems 148,E-commerce,MNC
+C0149,EduSphere Labs 149,Finance,Startup
+C0150,Vertex Labs,Healthcare,Startup
+C0151,UrbanCart Solutions 151,EdTech,Non-profit
+C0152,PrimeEdge Technologies 152,Consulting,Mid-size
+C0153,EduSphere Technologies 153,Healthcare,MNC
+C0154,Nexa Analytics 154,Manufacturing,MNC
+C0155,MedAxis Labs 155,Healthcare,Startup
+C0156,TeleLink Ventures,Automotive,Mid-size
+C0157,Apex Ventures 157,Automotive,Startup
+C0158,DataNest Systems 158,Consulting,Mid-size
+C0159,Apex Technologies 159,E-commerce,MNC
+C0160,Nexa Analytics 160,E-commerce,MNC
+C0161,TeleLink Consulting 161,Telecom,Mid-size
+C0162,MedAxis Ventures 162,Consulting,Non-profit
+C0163,Vertex Solutions 163,Telecom,Mid-size
+C0164,Apex Labs 164,EdTech,Startup
+C0165,CloudNova Analytics,E-commerce,MNC
+C0166,Vertex Systems 166,Consulting,Non-profit
+C0167,Vertex Analytics,E-commerce,Non-profit
+C0168,TeleLink Systems,Manufacturing,MNC
+C0169,DataNest Technologies 169,Telecom,MNC
+C0170,GreenGrid Labs 170,Technology,Non-profit
+C0171,PrimeEdge Consulting 171,Energy,Government
+C0172,Finova Consulting 172,Technology,Mid-size
+C0173,DataNest Labs 173,Energy,MNC
+C0174,DataNest Technologies 174,Consulting,Mid-size
+C0175,GreenGrid Solutions 175,EdTech,Startup
+C0176,EduSphere Systems 176,Finance,MNC
+C0177,DataNest Solutions,EdTech,MNC
+C0178,InsightWorks Ventures 178,Energy,Mid-size
+C0179,AutoCore Solutions 179,Technology,MNC
+C0180,MedAxis Solutions 180,Automotive,MNC
+C0181,MedAxis Consulting 181,Telecom,Mid-size
+C0182,BluePeak Solutions 182,Manufacturing,Startup
+C0183,BluePeak Systems,Manufacturing,Mid-size
+C0184,EduSphere Systems 184,Healthcare,MNC
+C0185,DataNest Systems 185,Telecom,MNC
+C0186,GreenGrid Technologies,Energy,MNC
+C0187,CloudNova Ventures 187,EdTech,Startup
+C0188,Nexa Systems 188,Technology,Government
+C0189,BluePeak Solutions 189,Manufacturing,Mid-size
+C0190,DataNest Systems 190,Manufacturing,Startup
+C0191,BluePeak Solutions 191,Energy,Startup
+C0192,BluePeak Labs 192,Telecom,Startup
+C0193,Nexa Consulting 193,E-commerce,Mid-size
+C0194,AutoCore Solutions,Technology,MNC
+C0195,EduSphere Consulting,Automotive,Startup
+C0196,GreenGrid Labs 196,Manufacturing,Government
+C0197,BluePeak Technologies 197,Finance,Mid-size
+C0198,PrimeEdge Solutions,Technology,MNC
+C0199,InsightWorks Analytics 199,Consulting,Mid-size
+C0200,InsightWorks Systems 200,Consulting,Government
+C0201,TeleLink Labs 201,Technology,Government
+C0202,GreenGrid Technologies 202,E-commerce,MNC
+C0203,EduSphere Systems 203,Consulting,Startup
+C0204,DataNest Analytics 204,Finance,Mid-size
+C0205,MedAxis Ventures 205,Consulting,MNC
+C0206,InsightWorks Consulting 206,Healthcare,Government
+C0207,Nexa Analytics 207,EdTech,Mid-size
+C0208,MedAxis Solutions 208,Consulting,Startup
+C0209,CloudNova Systems 209,EdTech,Non-profit
+C0210,TeleLink Consulting,Manufacturing,MNC
+C0211,DataNest Solutions 211,Manufacturing,Startup
+C0212,Vertex Analytics 212,Finance,Mid-size
+C0213,GreenGrid Systems 213,Manufacturing,MNC
+C0214,BluePeak Solutions,Healthcare,MNC
+C0215,MedAxis Analytics 215,Automotive,Mid-size
+C0216,CloudNova Consulting 216,Automotive,Mid-size
+C0217,TeleLink Ventures 217,Healthcare,Mid-size
+C0218,DataNest Systems 218,Telecom,Startup
+C0219,InsightWorks Technologies 219,Energy,Government
+C0220,Vertex Solutions 220,Healthcare,MNC
+C0221,GreenGrid Solutions 221,Telecom,Mid-size
+C0222,EduSphere Ventures 222,Automotive,Startup
+C0223,EduSphere Technologies 223,Consulting,Startup
+C0224,Finova Consulting 224,Automotive,Startup
+C0225,DataNest Solutions 225,Manufacturing,MNC
+C0226,UrbanCart Systems,Technology,Mid-size
+C0227,Apex Labs,Telecom,Non-profit
+C0228,UrbanCart Solutions 228,Automotive,Mid-size
+C0229,EduSphere Ventures 229,EdTech,Government
+C0230,GreenGrid Consulting 230,EdTech,Government
+C0231,MedAxis Labs 231,Consulting,Startup
+C0232,Vertex Consulting 232,Telecom,Non-profit
+C0233,CloudNova Labs,Technology,Non-profit
+C0234,AutoCore Analytics 234,Automotive,MNC
+C0235,MedAxis Solutions 235,Healthcare,Startup
+C0236,GreenGrid Analytics 236,Finance,Mid-size
+C0237,Nexa Labs 237,Technology,MNC
+C0238,DataNest Ventures 238,Automotive,Startup
+C0239,BluePeak Technologies 239,Technology,Startup
+C0240,Finova Solutions 240,Technology,Mid-size
+C0241,TeleLink Ventures 241,Energy,Mid-size
+C0242,PrimeEdge Solutions 242,E-commerce,Non-profit
+C0243,Finova Systems 243,Telecom,Startup
+C0244,PrimeEdge Solutions 244,Energy,Mid-size
+C0245,Apex Systems 245,EdTech,Non-profit
+C0246,MedAxis Consulting 246,EdTech,MNC
+C0247,Vertex Ventures 247,Consulting,MNC
+C0248,Finova Ventures 248,Healthcare,Mid-size
+C0249,AutoCore Analytics 249,Automotive,Non-profit
+C0250,UrbanCart Solutions 250,Telecom,Startup
+C0251,PrimeEdge Analytics 251,E-commerce,Mid-size
+C0252,InsightWorks Solutions 252,Finance,Startup
+C0253,TeleLink Labs 253,EdTech,Government
+C0254,CloudNova Ventures,Healthcare,MNC
+C0255,BluePeak Ventures 255,Telecom,Government
+C0256,BluePeak Solutions 256,Manufacturing,Non-profit
+C0257,EduSphere Solutions 257,Finance,Mid-size
+C0258,AutoCore Systems 258,Healthcare,Mid-size
+C0259,GreenGrid Systems 259,EdTech,MNC
+C0260,EduSphere Labs 260,E-commerce,Mid-size
+C0261,MedAxis Solutions 261,Automotive,MNC
+C0262,Apex Technologies,EdTech,Government
+C0263,AutoCore Technologies 263,Consulting,MNC
+C0264,Finova Solutions,EdTech,Startup
+C0265,InsightWorks Solutions 265,Healthcare,MNC
+C0266,InsightWorks Analytics 266,E-commerce,Non-profit
+C0267,DataNest Ventures 267,Automotive,MNC
+C0268,EduSphere Solutions 268,Consulting,Government
+C0269,AutoCore Labs 269,Telecom,Mid-size
+C0270,Apex Ventures 270,Finance,Startup
+C0271,BluePeak Labs 271,Consulting,Mid-size
+C0272,EduSphere Systems 272,Technology,Startup
+C0273,GreenGrid Analytics 273,Energy,Startup
+C0274,Apex Labs 274,Telecom,MNC
+C0275,Apex Technologies 275,Manufacturing,Mid-size
+C0276,Nexa Labs 276,EdTech,MNC
+C0277,AutoCore Systems 277,Healthcare,Mid-size
+C0278,Nexa Systems 278,Manufacturing,Non-profit
+C0279,DataNest Solutions 279,Automotive,MNC
+C0280,GreenGrid Ventures 280,Finance,Startup
+C0281,AutoCore Analytics 281,EdTech,Startup
+C0282,Nexa Analytics 282,Technology,Mid-size
+C0283,Nexa Technologies 283,E-commerce,Government
+C0284,DataNest Technologies 284,Healthcare,MNC
+C0285,GreenGrid Systems 285,Technology,Government
+C0286,Vertex Ventures 286,Energy,MNC
+C0287,CloudNova Ventures 287,Healthcare,Mid-size
+C0288,Finova Solutions 288,EdTech,MNC
+C0289,UrbanCart Consulting 289,Energy,Government
+C0290,UrbanCart Ventures,E-commerce,Mid-size
+C0291,MedAxis Labs 291,Finance,Startup
+C0292,MedAxis Technologies 292,Healthcare,Mid-size
+C0293,MedAxis Labs 293,Energy,Mid-size
+C0294,MedAxis Technologies 294,Automotive,Non-profit
+C0295,TeleLink Consulting 295,EdTech,MNC
+C0296,BluePeak Consulting 296,Energy,Startup
+C0297,DataNest Ventures 297,Manufacturing,Mid-size
+C0298,Nexa Labs 298,EdTech,Startup
+C0299,CloudNova Systems 299,Manufacturing,Startup
+C0300,EduSphere Technologies 300,Finance,MNC
+C0301,Nexa Systems 301,EdTech,MNC
+C0302,MedAxis Ventures 302,Energy,MNC
+C0303,CloudNova Labs 303,Manufacturing,Mid-size
+C0304,TeleLink Technologies 304,Telecom,Startup
+C0305,Finova Systems 305,EdTech,Startup
+C0306,UrbanCart Systems 306,Consulting,MNC
+C0307,MedAxis Systems 307,Automotive,Non-profit
+C0308,BluePeak Analytics 308,Automotive,Startup
+C0309,MedAxis Ventures 309,Manufacturing,Mid-size
+C0310,UrbanCart Ventures 310,E-commerce,Mid-size
+C0311,Vertex Systems,Energy,MNC
+C0312,Vertex Analytics 312,Healthcare,Non-profit
+C0313,GreenGrid Analytics 313,Manufacturing,Non-profit
+C0314,Finova Ventures 314,Healthcare,Mid-size
+C0315,BluePeak Technologies 315,E-commerce,Non-profit
+C0316,AutoCore Labs 316,Consulting,Non-profit
+C0317,EduSphere Ventures 317,Automotive,MNC
+C0318,CloudNova Ventures 318,Finance,MNC
+C0319,Finova Solutions 319,Automotive,Startup
+C0320,CloudNova Analytics 320,Consulting,Startup
+C0321,UrbanCart Technologies 321,Energy,MNC
+C0322,CloudNova Systems 322,EdTech,Mid-size
+C0323,PrimeEdge Labs 323,Telecom,Startup
+C0324,MedAxis Solutions 324,Healthcare,Mid-size
+C0325,GreenGrid Consulting 325,Technology,MNC

@@ -1,0 +1,811 @@
+role_id,company_id,role_name,stipend,location,openings
+R00001,C0001,Strategy Intern,47000,Hyderabad,1
+R00002,C0001,Operations Intern,48000,Delhi NCR,8
+R00003,C0001,Strategy Intern,46000,Remote,8
+R00004,C0002,Finance Analyst Intern,48000,Pune,7
+R00005,C0002,Finance Analyst Intern,52000,Hyderabad,12
+R00006,C0003,Learning Analytics Intern,20000,Gurugram,6
+R00007,C0003,Content Strategy Intern,34000,Hyderabad,8
+R00008,C0004,Quality Intern,24000,Hyderabad,1
+R00009,C0004,Process Engineering Intern,36000,Hyderabad,11
+R00010,C0004,Quality Intern,35000,Delhi NCR,9
+R00011,C0004,Supply Chain Intern,8000,Mumbai,6
+R00012,C0005,Electrical Systems Intern,37000,Mumbai,3
+R00013,C0005,Operations Intern,27000,Remote,7
+R00014,C0005,Sustainability Analyst Intern,44000,Gurugram,10
+R00015,C0005,Electrical Systems Intern,32000,Remote,1
+R00016,C0006,Business Analyst Intern,47000,Hyderabad,9
+R00017,C0006,Business Analyst Intern,59000,Chennai,6
+R00018,C0007,Audit Intern,41000,Chennai,10
+R00019,C0007,Audit Intern,52000,Remote,10
+R00020,C0008,Operations Intern,19000,Mumbai,11
+R00021,C0009,Operations Intern,47000,Hyderabad,11
+R00022,C0009,Product Analyst Intern,33000,Hyderabad,3
+R00023,C0009,Product Analyst Intern,34000,Mumbai,9
+R00024,C0010,Content Strategy Intern,20000,Remote,3
+R00025,C0010,Content Strategy Intern,28000,Mumbai,9
+R00026,C0010,Learning Analytics Intern,30000,Chennai,8
+R00027,C0010,Product Intern,33000,Bengaluru,6
+R00028,C0011,Electrical Systems Intern,22000,Gurugram,7
+R00029,C0012,QA Intern,45000,Gurugram,8
+R00030,C0012,Data Analyst Intern,52000,Pune,1
+R00031,C0012,Cloud Intern,57000,Delhi NCR,9
+R00032,C0012,AI/ML Intern,40000,Gurugram,9
+R00033,C0013,AI/ML Intern,63000,Hyderabad,5
+R00034,C0014,Operations Intern,12000,Gurugram,9
+R00035,C0014,Health Data Intern,25000,Remote,2
+R00036,C0014,Health Data Intern,28000,Pune,1
+R00037,C0015,Process Engineering Intern,12000,Chennai,2
+R00038,C0015,Supply Chain Intern,8000,Delhi NCR,12
+R00039,C0015,Quality Intern,41000,Chennai,12
+R00040,C0015,Quality Intern,19000,Mumbai,4
+R00041,C0016,Learning Analytics Intern,18000,Chennai,9
+R00042,C0016,Content Strategy Intern,23000,Pune,5
+R00043,C0017,Operations Intern,43000,Hyderabad,3
+R00044,C0017,Health Data Intern,48000,Pune,11
+R00045,C0017,Health Data Intern,25000,Mumbai,4
+R00046,C0018,Business Operations Intern,33000,Remote,8
+R00047,C0018,Growth Analyst Intern,17000,Pune,11
+R00048,C0019,Software Intern,41000,Remote,9
+R00049,C0019,Cloud Intern,48000,Chennai,8
+R00050,C0019,Software Intern,54000,Hyderabad,12
+R00051,C0019,QA Intern,41000,Chennai,2
+R00052,C0020,Risk Analyst Intern,52000,Gurugram,5
+R00053,C0020,Quant Intern,61000,Pune,6
+R00054,C0020,Audit Intern,44000,Chennai,11
+R00055,C0020,Finance Analyst Intern,48000,Bengaluru,2
+R00056,C0021,Sustainability Analyst Intern,55000,Gurugram,8
+R00057,C0021,Sustainability Analyst Intern,32000,Remote,4
+R00058,C0021,Operations Intern,54000,Pune,3
+R00059,C0021,Electrical Systems Intern,29000,Hyderabad,11
+R00060,C0022,Quality Intern,27000,Mumbai,1
+R00061,C0022,Process Engineering Intern,38000,Pune,12
+R00062,C0022,Quality Intern,25000,Hyderabad,12
+R00063,C0023,Sustainability Analyst Intern,22000,Delhi NCR,8
+R00064,C0024,Business Operations Intern,43000,Gurugram,1
+R00065,C0025,Operations Intern,35000,Chennai,2
+R00066,C0026,Supply Chain Intern,23000,Remote,2
+R00067,C0026,Quality Intern,16000,Hyderabad,2
+R00068,C0026,Supply Chain Intern,19000,Remote,3
+R00069,C0026,Quality Intern,48000,Mumbai,2
+R00070,C0027,Quant Intern,44000,Delhi NCR,11
+R00071,C0028,Data Analyst Intern,29000,Gurugram,4
+R00072,C0028,Network Engineering Intern,38000,Remote,6
+R00073,C0029,Strategy Intern,44000,Mumbai,4
+R00074,C0029,Operations Intern,41000,Pune,12
+R00075,C0029,Business Analyst Intern,46000,Pune,4
+R00076,C0029,Operations Intern,28000,Remote,5
+R00077,C0030,Health Data Intern,28000,Gurugram,7
+R00078,C0031,Finance Analyst Intern,50000,Bengaluru,6
+R00079,C0032,Sustainability Analyst Intern,45000,Remote,10
+R00080,C0032,Sustainability Analyst Intern,17000,Gurugram,2
+R00081,C0032,Sustainability Analyst Intern,36000,Hyderabad,1
+R00082,C0033,Electrical Systems Intern,35000,Pune,11
+R00083,C0033,Operations Intern,54000,Remote,7
+R00084,C0033,Operations Intern,28000,Mumbai,5
+R00085,C0034,Product Intern,33000,Hyderabad,9
+R00086,C0035,Design Engineering Intern,38000,Remote,10
+R00087,C0035,Operations Intern,30000,Hyderabad,5
+R00088,C0036,Supply Chain Intern,25000,Delhi NCR,2
+R00089,C0036,Process Engineering Intern,8000,Hyderabad,8
+R00090,C0036,Quality Intern,25000,Mumbai,2
+R00091,C0036,Supply Chain Intern,25000,Mumbai,12
+R00092,C0037,Operations Intern,46000,Pune,3
+R00093,C0038,Supply Chain Intern,51000,Pune,12
+R00094,C0038,Supply Chain Intern,42000,Chennai,7
+R00095,C0038,Process Engineering Intern,15000,Hyderabad,5
+R00096,C0039,Finance Analyst Intern,36000,Gurugram,10
+R00097,C0040,Design Engineering Intern,32000,Mumbai,5
+R00098,C0040,Operations Intern,35000,Hyderabad,4
+R00099,C0041,Embedded Systems Intern,8000,Bengaluru,4
+R00100,C0042,Health Data Intern,19000,Mumbai,1
+R00101,C0043,Business Analyst Intern,43000,Chennai,4
+R00102,C0043,Strategy Intern,26000,Hyderabad,10
+R00103,C0043,Strategy Intern,50000,Hyderabad,9
+R00104,C0043,Business Analyst Intern,40000,Bengaluru,7
+R00105,C0044,Product Intern,34000,Pune,5
+R00106,C0045,Strategy Intern,52000,Delhi NCR,5
+R00107,C0045,Operations Intern,48000,Pune,12
+R00108,C0045,Operations Intern,33000,Gurugram,4
+R00109,C0046,Network Engineering Intern,25000,Bengaluru,7
+R00110,C0046,Customer Analytics Intern,47000,Bengaluru,6
+R00111,C0047,Quality Intern,30000,Remote,12
+R00112,C0048,Sustainability Analyst Intern,40000,Remote,8
+R00113,C0048,Sustainability Analyst Intern,38000,Mumbai,12
+R00114,C0048,Sustainability Analyst Intern,29000,Remote,12
+R00115,C0049,Product Intern,41000,Hyderabad,10
+R00116,C0049,Product Intern,42000,Hyderabad,10
+R00117,C0049,Business Operations Intern,41000,Bengaluru,7
+R00118,C0050,Process Engineering Intern,28000,Remote,12
+R00119,C0050,Quality Intern,36000,Chennai,6
+R00120,C0051,Sustainability Analyst Intern,29000,Mumbai,10
+R00121,C0051,Sustainability Analyst Intern,34000,Mumbai,2
+R00122,C0051,Electrical Systems Intern,36000,Hyderabad,9
+R00123,C0051,Electrical Systems Intern,40000,Delhi NCR,8
+R00124,C0052,Sustainability Analyst Intern,9000,Mumbai,11
+R00125,C0052,Electrical Systems Intern,34000,Bengaluru,4
+R00126,C0052,Sustainability Analyst Intern,35000,Delhi NCR,6
+R00127,C0053,Quality Intern,19000,Bengaluru,11
+R00128,C0053,Supply Chain Intern,21000,Bengaluru,7
+R00129,C0053,Process Engineering Intern,47000,Delhi NCR,2
+R00130,C0053,Supply Chain Intern,8000,Hyderabad,1
+R00131,C0054,Risk Analyst Intern,54000,Mumbai,4
+R00132,C0055,Business Operations Intern,27000,Hyderabad,10
+R00133,C0055,Business Operations Intern,49000,Pune,2
+R00134,C0055,Business Operations Intern,41000,Gurugram,3
+R00135,C0055,Growth Analyst Intern,38000,Chennai,2
+R00136,C0056,Customer Analytics Intern,37000,Remote,12
+R00137,C0057,QA Intern,43000,Bengaluru,7
+R00138,C0057,Data Analyst Intern,42000,Mumbai,5
+R00139,C0057,Cloud Intern,38000,Gurugram,3
+R00140,C0057,Data Analyst Intern,59000,Pune,8
+R00141,C0058,Operations Intern,33000,Gurugram,1
+R00142,C0058,Product Analyst Intern,39000,Delhi NCR,11
+R00143,C0058,Operations Intern,35000,Delhi NCR,11
+R00144,C0058,Health Data Intern,43000,Remote,12
+R00145,C0059,Product Analyst Intern,29000,Gurugram,6
+R00146,C0059,Product Analyst Intern,41000,Pune,3
+R00147,C0059,Health Data Intern,23000,Chennai,10
+R00148,C0060,Quant Intern,69000,Bengaluru,8
+R00149,C0060,Quant Intern,53000,Delhi NCR,3
+R00150,C0061,Customer Analytics Intern,34000,Bengaluru,4
+R00151,C0062,Electrical Systems Intern,38000,Mumbai,3
+R00152,C0062,Operations Intern,30000,Chennai,10
+R00153,C0062,Sustainability Analyst Intern,39000,Chennai,10
+R00154,C0062,Sustainability Analyst Intern,16000,Gurugram,9
+R00155,C0063,Sustainability Analyst Intern,24000,Gurugram,1
+R00156,C0063,Sustainability Analyst Intern,36000,Bengaluru,9
+R00157,C0063,Electrical Systems Intern,34000,Bengaluru,6
+R00158,C0064,Growth Analyst Intern,41000,Chennai,1
+R00159,C0064,Growth Analyst Intern,28000,Mumbai,10
+R00160,C0065,Design Engineering Intern,35000,Hyderabad,6
+R00161,C0065,Operations Intern,10000,Remote,10
+R00162,C0066,Embedded Systems Intern,26000,Remote,11
+R00163,C0067,Operations Intern,38000,Chennai,3
+R00164,C0067,Operations Intern,26000,Chennai,4
+R00165,C0067,Operations Intern,16000,Mumbai,7
+R00166,C0067,Sustainability Analyst Intern,24000,Mumbai,12
+R00167,C0068,Product Intern,41000,Remote,10
+R00168,C0069,Operations Intern,33000,Delhi NCR,11
+R00169,C0070,Product Intern,46000,Mumbai,6
+R00170,C0071,Network Engineering Intern,36000,Hyderabad,12
+R00171,C0072,Strategy Intern,73000,Bengaluru,5
+R00172,C0072,Strategy Intern,46000,Pune,2
+R00173,C0072,Operations Intern,58000,Bengaluru,1
+R00174,C0073,Learning Analytics Intern,15000,Remote,8
+R00175,C0073,Content Strategy Intern,30000,Chennai,9
+R00176,C0073,Product Intern,11000,Delhi NCR,3
+R00177,C0073,Content Strategy Intern,40000,Hyderabad,1
+R00178,C0074,Growth Analyst Intern,46000,Hyderabad,6
+R00179,C0074,Growth Analyst Intern,39000,Remote,3
+R00180,C0074,Growth Analyst Intern,36000,Chennai,10
+R00181,C0075,Product Intern,12000,Bengaluru,7
+R00182,C0075,Content Strategy Intern,32000,Mumbai,1
+R00183,C0075,Learning Analytics Intern,23000,Chennai,4
+R00184,C0075,Product Intern,37000,Pune,11
+R00185,C0076,Quant Intern,48000,Delhi NCR,2
+R00186,C0076,Audit Intern,63000,Mumbai,1
+R00187,C0076,Quant Intern,54000,Bengaluru,7
+R00188,C0077,Audit Intern,45000,Delhi NCR,2
+R00189,C0078,Business Analyst Intern,57000,Mumbai,11
+R00190,C0079,Embedded Systems Intern,44000,Pune,7
+R00191,C0079,Design Engineering Intern,30000,Gurugram,11
+R00192,C0079,Design Engineering Intern,30000,Mumbai,6
+R00193,C0080,Design Engineering Intern,47000,Mumbai,8
+R00194,C0080,Design Engineering Intern,43000,Delhi NCR,5
+R00195,C0080,Operations Intern,35000,Bengaluru,3
+R00196,C0080,Embedded Systems Intern,32000,Chennai,9
+R00197,C0081,Operations Intern,13000,Delhi NCR,9
+R00198,C0081,Operations Intern,40000,Remote,9
+R00199,C0081,Operations Intern,34000,Gurugram,10
+R00200,C0081,Health Data Intern,39000,Remote,12
+R00201,C0082,Product Intern,17000,Mumbai,2
+R00202,C0083,Supply Chain Intern,42000,Delhi NCR,3
+R00203,C0083,Supply Chain Intern,56000,Remote,2
+R00204,C0083,Quality Intern,39000,Mumbai,10
+R00205,C0083,Process Engineering Intern,27000,Chennai,12
+R00206,C0084,Operations Intern,41000,Chennai,5
+R00207,C0085,Sustainability Analyst Intern,37000,Remote,2
+R00208,C0085,Operations Intern,24000,Hyderabad,2
+R00209,C0085,Operations Intern,33000,Hyderabad,5
+R00210,C0085,Electrical Systems Intern,45000,Pune,7
+R00211,C0086,Operations Intern,25000,Gurugram,1
+R00212,C0086,Operations Intern,47000,Remote,1
+R00213,C0086,Strategy Intern,51000,Chennai,12
+R00214,C0086,Strategy Intern,43000,Chennai,1
+R00215,C0087,Electrical Systems Intern,48000,Pune,5
+R00216,C0087,Operations Intern,41000,Hyderabad,4
+R00217,C0087,Sustainability Analyst Intern,11000,Pune,12
+R00218,C0088,Audit Intern,51000,Hyderabad,4
+R00219,C0088,Audit Intern,40000,Delhi NCR,7
+R00220,C0088,Quant Intern,48000,Bengaluru,9
+R00221,C0088,Risk Analyst Intern,31000,Hyderabad,5
+R00222,C0089,Customer Analytics Intern,48000,Bengaluru,3
+R00223,C0089,Network Engineering Intern,50000,Delhi NCR,1
+R00224,C0089,Data Analyst Intern,34000,Delhi NCR,5
+R00225,C0089,Data Analyst Intern,46000,Gurugram,9
+R00226,C0090,Learning Analytics Intern,22000,Delhi NCR,6
+R00227,C0090,Content Strategy Intern,21000,Gurugram,3
+R00228,C0090,Product Intern,38000,Chennai,6
+R00229,C0090,Learning Analytics Intern,22000,Pune,12
+R00230,C0091,Risk Analyst Intern,47000,Delhi NCR,4
+R00231,C0092,Operations Intern,40000,Delhi NCR,5
+R00232,C0092,Operations Intern,22000,Bengaluru,8
+R00233,C0093,Customer Analytics Intern,23000,Mumbai,10
+R00234,C0093,Customer Analytics Intern,36000,Pune,12
+R00235,C0094,Design Engineering Intern,24000,Remote,6
+R00236,C0094,Design Engineering Intern,24000,Remote,10
+R00237,C0094,Embedded Systems Intern,33000,Bengaluru,9
+R00238,C0095,Strategy Intern,28000,Pune,11
+R00239,C0095,Business Analyst Intern,36000,Gurugram,2
+R00240,C0095,Strategy Intern,37000,Pune,5
+R00241,C0096,Health Data Intern,37000,Mumbai,9
+R00242,C0096,Operations Intern,32000,Remote,11
+R00243,C0096,Product Analyst Intern,8000,Mumbai,12
+R00244,C0097,Process Engineering Intern,8000,Remote,7
+R00245,C0098,Customer Analytics Intern,8000,Bengaluru,10
+R00246,C0098,Network Engineering Intern,30000,Chennai,12
+R00247,C0098,Customer Analytics Intern,20000,Delhi NCR,11
+R00248,C0098,Customer Analytics Intern,15000,Chennai,9
+R00249,C0099,Supply Chain Intern,23000,Mumbai,5
+R00250,C0099,Process Engineering Intern,32000,Mumbai,11
+R00251,C0099,Process Engineering Intern,31000,Hyderabad,4
+R00252,C0100,Product Intern,41000,Chennai,6
+R00253,C0100,Product Intern,59000,Pune,8
+R00254,C0100,Business Operations Intern,45000,Hyderabad,8
+R00255,C0101,Product Intern,16000,Hyderabad,11
+R00256,C0101,Learning Analytics Intern,19000,Mumbai,3
+R00257,C0102,Content Strategy Intern,32000,Remote,10
+R00258,C0102,Learning Analytics Intern,51000,Chennai,12
+R00259,C0103,Network Engineering Intern,13000,Gurugram,6
+R00260,C0103,Customer Analytics Intern,29000,Bengaluru,1
+R00261,C0104,Content Strategy Intern,20000,Delhi NCR,3
+R00262,C0104,Learning Analytics Intern,20000,Mumbai,10
+R00263,C0104,Content Strategy Intern,23000,Remote,7
+R00264,C0104,Learning Analytics Intern,14000,Bengaluru,9
+R00265,C0105,Quality Intern,33000,Chennai,1
+R00266,C0105,Quality Intern,42000,Delhi NCR,1
+R00267,C0106,Quality Intern,16000,Delhi NCR,4
+R00268,C0107,Operations Intern,30000,Pune,3
+R00269,C0107,Embedded Systems Intern,36000,Bengaluru,5
+R00270,C0107,Operations Intern,43000,Chennai,7
+R00271,C0108,Product Intern,34000,Gurugram,6
+R00272,C0108,Product Intern,38000,Bengaluru,4
+R00273,C0109,Data Analyst Intern,38000,Delhi NCR,12
+R00274,C0109,Software Intern,57000,Chennai,12
+R00275,C0110,Strategy Intern,43000,Pune,9
+R00276,C0111,Embedded Systems Intern,29000,Bengaluru,1
+R00277,C0112,Product Intern,36000,Gurugram,7
+R00278,C0113,Embedded Systems Intern,20000,Delhi NCR,12
+R00279,C0114,Strategy Intern,38000,Remote,11
+R00280,C0115,Operations Intern,25000,Mumbai,7
+R00281,C0116,Product Intern,18000,Hyderabad,5
+R00282,C0117,Quality Intern,30000,Delhi NCR,5
+R00283,C0118,Design Engineering Intern,19000,Remote,5
+R00284,C0118,Embedded Systems Intern,39000,Gurugram,6
+R00285,C0119,Business Analyst Intern,53000,Bengaluru,11
+R00286,C0119,Operations Intern,46000,Gurugram,3
+R00287,C0120,Finance Analyst Intern,52000,Hyderabad,5
+R00288,C0121,Product Intern,8000,Gurugram,1
+R00289,C0121,Growth Analyst Intern,46000,Mumbai,1
+R00290,C0122,Data Analyst Intern,23000,Hyderabad,2
+R00291,C0122,Network Engineering Intern,46000,Bengaluru,3
+R00292,C0122,Data Analyst Intern,30000,Gurugram,10
+R00293,C0123,Operations Intern,36000,Hyderabad,6
+R00294,C0123,Strategy Intern,44000,Remote,8
+R00295,C0123,Strategy Intern,35000,Remote,12
+R00296,C0124,Risk Analyst Intern,54000,Hyderabad,3
+R00297,C0124,Finance Analyst Intern,34000,Mumbai,2
+R00298,C0124,Audit Intern,37000,Mumbai,10
+R00299,C0124,Audit Intern,57000,Chennai,10
+R00300,C0125,Data Analyst Intern,59000,Gurugram,8
+R00301,C0126,Data Analyst Intern,16000,Gurugram,1
+R00302,C0127,Product Intern,25000,Delhi NCR,11
+R00303,C0128,Product Intern,35000,Hyderabad,7
+R00304,C0128,Content Strategy Intern,21000,Remote,3
+R00305,C0128,Product Intern,18000,Bengaluru,1
+R00306,C0129,Product Intern,25000,Mumbai,2
+R00307,C0129,Product Intern,37000,Chennai,4
+R00308,C0130,Network Engineering Intern,37000,Remote,7
+R00309,C0130,Network Engineering Intern,33000,Hyderabad,8
+R00310,C0130,Network Engineering Intern,20000,Gurugram,8
+R00311,C0131,Sustainability Analyst Intern,34000,Gurugram,12
+R00312,C0131,Electrical Systems Intern,27000,Bengaluru,9
+R00313,C0131,Operations Intern,25000,Bengaluru,2
+R00314,C0132,QA Intern,55000,Chennai,6
+R00315,C0132,Software Intern,35000,Delhi NCR,8
+R00316,C0132,AI/ML Intern,35000,Gurugram,12
+R00317,C0133,Operations Intern,58000,Gurugram,2
+R00318,C0133,Business Analyst Intern,55000,Chennai,6
+R00319,C0133,Operations Intern,51000,Pune,9
+R00320,C0134,Network Engineering Intern,33000,Gurugram,3
+R00321,C0134,Customer Analytics Intern,30000,Remote,2
+R00322,C0134,Network Engineering Intern,33000,Remote,4
+R00323,C0135,Supply Chain Intern,35000,Chennai,2
+R00324,C0135,Quality Intern,28000,Hyderabad,8
+R00325,C0135,Process Engineering Intern,24000,Mumbai,8
+R00326,C0135,Quality Intern,45000,Remote,10
+R00327,C0136,Quality Intern,28000,Mumbai,12
+R00328,C0136,Supply Chain Intern,12000,Hyderabad,7
+R00329,C0136,Quality Intern,19000,Chennai,9
+R00330,C0136,Quality Intern,36000,Delhi NCR,5
+R00331,C0137,Data Analyst Intern,26000,Pune,8
+R00332,C0137,Customer Analytics Intern,36000,Pune,12
+R00333,C0137,Customer Analytics Intern,28000,Chennai,12
+R00334,C0137,Network Engineering Intern,32000,Delhi NCR,4
+R00335,C0138,Operations Intern,16000,Chennai,11
+R00336,C0138,Sustainability Analyst Intern,41000,Chennai,12
+R00337,C0138,Sustainability Analyst Intern,42000,Chennai,9
+R00338,C0139,Operations Intern,8000,Remote,11
+R00339,C0139,Operations Intern,16000,Pune,7
+R00340,C0139,Sustainability Analyst Intern,34000,Remote,3
+R00341,C0139,Sustainability Analyst Intern,17000,Bengaluru,4
+R00342,C0140,Cloud Intern,45000,Pune,3
+R00343,C0140,Software Intern,38000,Pune,4
+R00344,C0140,QA Intern,45000,Hyderabad,10
+R00345,C0141,AI/ML Intern,42000,Remote,4
+R00346,C0141,Cloud Intern,25000,Bengaluru,7
+R00347,C0142,Product Analyst Intern,28000,Chennai,9
+R00348,C0142,Health Data Intern,47000,Gurugram,4
+R00349,C0142,Operations Intern,36000,Chennai,10
+R00350,C0142,Operations Intern,15000,Delhi NCR,5
+R00351,C0143,Embedded Systems Intern,27000,Hyderabad,3
+R00352,C0143,Embedded Systems Intern,49000,Remote,1
+R00353,C0143,Design Engineering Intern,27000,Pune,9
+R00354,C0143,Design Engineering Intern,31000,Bengaluru,6
+R00355,C0144,Quality Intern,34000,Mumbai,1
+R00356,C0144,Supply Chain Intern,33000,Pune,8
+R00357,C0144,Quality Intern,35000,Chennai,2
+R00358,C0144,Supply Chain Intern,30000,Mumbai,9
+R00359,C0145,Product Intern,16000,Mumbai,7
+R00360,C0146,Embedded Systems Intern,38000,Chennai,6
+R00361,C0146,Design Engineering Intern,36000,Pune,4
+R00362,C0146,Design Engineering Intern,46000,Bengaluru,2
+R00363,C0146,Operations Intern,27000,Chennai,8
+R00364,C0147,Operations Intern,54000,Delhi NCR,1
+R00365,C0147,Operations Intern,33000,Chennai,7
+R00366,C0148,Product Intern,27000,Bengaluru,9
+R00367,C0149,Audit Intern,59000,Gurugram,1
+R00368,C0149,Quant Intern,45000,Hyderabad,2
+R00369,C0149,Risk Analyst Intern,65000,Bengaluru,11
+R00370,C0150,Health Data Intern,33000,Remote,2
+R00371,C0151,Product Intern,41000,Remote,11
+R00372,C0151,Product Intern,27000,Mumbai,1
+R00373,C0152,Operations Intern,38000,Chennai,1
+R00374,C0152,Strategy Intern,45000,Hyderabad,10
+R00375,C0152,Business Analyst Intern,43000,Pune,7
+R00376,C0152,Strategy Intern,30000,Chennai,1
+R00377,C0153,Operations Intern,40000,Hyderabad,9
+R00378,C0153,Health Data Intern,47000,Bengaluru,12
+R00379,C0153,Health Data Intern,30000,Chennai,9
+R00380,C0153,Product Analyst Intern,45000,Hyderabad,5
+R00381,C0154,Process Engineering Intern,39000,Remote,11
+R00382,C0154,Supply Chain Intern,34000,Mumbai,12
+R00383,C0154,Process Engineering Intern,29000,Pune,11
+R00384,C0154,Quality Intern,38000,Chennai,1
+R00385,C0155,Health Data Intern,43000,Bengaluru,1
+R00386,C0155,Operations Intern,20000,Hyderabad,5
+R00387,C0156,Operations Intern,27000,Chennai,4
+R00388,C0156,Operations Intern,18000,Mumbai,3
+R00389,C0157,Embedded Systems Intern,40000,Pune,4
+R00390,C0157,Operations Intern,44000,Bengaluru,9
+R00391,C0158,Operations Intern,52000,Hyderabad,5
+R00392,C0158,Business Analyst Intern,38000,Gurugram,6
+R00393,C0158,Strategy Intern,34000,Mumbai,11
+R00394,C0158,Operations Intern,39000,Hyderabad,4
+R00395,C0159,Product Intern,33000,Gurugram,6
+R00396,C0159,Business Operations Intern,31000,Mumbai,10
+R00397,C0159,Business Operations Intern,31000,Chennai,6
+R00398,C0160,Growth Analyst Intern,42000,Remote,5
+R00399,C0160,Product Intern,46000,Mumbai,11
+R00400,C0160,Product Intern,35000,Gurugram,6
+R00401,C0160,Product Intern,15000,Gurugram,9
+R00402,C0161,Data Analyst Intern,40000,Mumbai,9
+R00403,C0162,Strategy Intern,55000,Hyderabad,12
+R00404,C0162,Operations Intern,43000,Bengaluru,10
+R00405,C0163,Customer Analytics Intern,34000,Delhi NCR,1
+R00406,C0163,Customer Analytics Intern,20000,Gurugram,11
+R00407,C0163,Network Engineering Intern,29000,Chennai,7
+R00408,C0163,Customer Analytics Intern,37000,Pune,3
+R00409,C0164,Product Intern,44000,Hyderabad,7
+R00410,C0164,Learning Analytics Intern,24000,Mumbai,9
+R00411,C0164,Learning Analytics Intern,27000,Gurugram,3
+R00412,C0164,Product Intern,37000,Mumbai,12
+R00413,C0165,Product Intern,62000,Bengaluru,4
+R00414,C0165,Product Intern,38000,Chennai,4
+R00415,C0165,Growth Analyst Intern,30000,Delhi NCR,9
+R00416,C0165,Product Intern,46000,Gurugram,1
+R00417,C0166,Operations Intern,36000,Chennai,2
+R00418,C0167,Business Operations Intern,42000,Mumbai,7
+R00419,C0167,Business Operations Intern,30000,Remote,6
+R00420,C0167,Growth Analyst Intern,17000,Pune,7
+R00421,C0168,Quality Intern,15000,Remote,6
+R00422,C0168,Process Engineering Intern,32000,Bengaluru,9
+R00423,C0169,Data Analyst Intern,24000,Mumbai,4
+R00424,C0169,Network Engineering Intern,47000,Mumbai,3
+R00425,C0170,Cloud Intern,52000,Hyderabad,11
+R00426,C0170,Software Intern,47000,Gurugram,11
+R00427,C0171,Electrical Systems Intern,49000,Delhi NCR,10
+R00428,C0171,Sustainability Analyst Intern,41000,Delhi NCR,1
+R00429,C0171,Sustainability Analyst Intern,47000,Mumbai,3
+R00430,C0171,Operations Intern,27000,Mumbai,1
+R00431,C0172,Cloud Intern,42000,Mumbai,9
+R00432,C0172,AI/ML Intern,59000,Bengaluru,12
+R00433,C0173,Sustainability Analyst Intern,26000,Delhi NCR,8
+R00434,C0173,Electrical Systems Intern,20000,Mumbai,4
+R00435,C0173,Electrical Systems Intern,22000,Mumbai,10
+R00436,C0174,Business Analyst Intern,32000,Chennai,8
+R00437,C0174,Operations Intern,32000,Hyderabad,4
+R00438,C0175,Learning Analytics Intern,22000,Remote,3
+R00439,C0175,Product Intern,29000,Hyderabad,3
+R00440,C0175,Learning Analytics Intern,10000,Hyderabad,2
+R00441,C0175,Content Strategy Intern,28000,Mumbai,10
+R00442,C0176,Audit Intern,65000,Remote,6
+R00443,C0177,Product Intern,14000,Remote,4
+R00444,C0178,Operations Intern,32000,Hyderabad,7
+R00445,C0178,Sustainability Analyst Intern,19000,Pune,8
+R00446,C0178,Sustainability Analyst Intern,32000,Pune,10
+R00447,C0178,Operations Intern,8000,Remote,5
+R00448,C0179,Software Intern,63000,Hyderabad,9
+R00449,C0179,Software Intern,45000,Remote,11
+R00450,C0180,Design Engineering Intern,28000,Hyderabad,3
+R00451,C0180,Design Engineering Intern,23000,Pune,5
+R00452,C0181,Customer Analytics Intern,20000,Remote,4
+R00453,C0181,Data Analyst Intern,28000,Gurugram,3
+R00454,C0181,Data Analyst Intern,24000,Pune,10
+R00455,C0181,Data Analyst Intern,44000,Remote,12
+R00456,C0182,Quality Intern,37000,Delhi NCR,8
+R00457,C0182,Quality Intern,15000,Mumbai,2
+R00458,C0183,Quality Intern,8000,Bengaluru,3
+R00459,C0183,Process Engineering Intern,26000,Bengaluru,2
+R00460,C0184,Health Data Intern,15000,Hyderabad,5
+R00461,C0184,Health Data Intern,32000,Chennai,2
+R00462,C0185,Data Analyst Intern,29000,Pune,12
+R00463,C0186,Sustainability Analyst Intern,8000,Gurugram,8
+R00464,C0187,Product Intern,30000,Pune,4
+R00465,C0188,AI/ML Intern,60000,Delhi NCR,10
+R00466,C0189,Quality Intern,23000,Bengaluru,3
+R00467,C0189,Supply Chain Intern,18000,Pune,7
+R00468,C0190,Supply Chain Intern,22000,Bengaluru,12
+R00469,C0190,Quality Intern,18000,Hyderabad,2
+R00470,C0190,Quality Intern,11000,Chennai,6
+R00471,C0191,Sustainability Analyst Intern,24000,Delhi NCR,8
+R00472,C0191,Electrical Systems Intern,43000,Mumbai,7
+R00473,C0191,Operations Intern,23000,Hyderabad,9
+R00474,C0192,Network Engineering Intern,23000,Pune,9
+R00475,C0193,Business Operations Intern,37000,Gurugram,7
+R00476,C0193,Product Intern,20000,Gurugram,11
+R00477,C0193,Product Intern,30000,Bengaluru,8
+R00478,C0194,Data Analyst Intern,44000,Delhi NCR,6
+R00479,C0195,Design Engineering Intern,42000,Bengaluru,12
+R00480,C0195,Embedded Systems Intern,36000,Remote,11
+R00481,C0195,Operations Intern,24000,Chennai,2
+R00482,C0195,Design Engineering Intern,25000,Chennai,4
+R00483,C0196,Supply Chain Intern,25000,Delhi NCR,8
+R00484,C0196,Supply Chain Intern,27000,Pune,4
+R00485,C0196,Supply Chain Intern,19000,Delhi NCR,4
+R00486,C0197,Finance Analyst Intern,52000,Gurugram,10
+R00487,C0197,Finance Analyst Intern,54000,Bengaluru,8
+R00488,C0197,Quant Intern,43000,Gurugram,3
+R00489,C0198,QA Intern,51000,Delhi NCR,10
+R00490,C0198,QA Intern,54000,Gurugram,9
+R00491,C0198,Software Intern,54000,Chennai,7
+R00492,C0199,Operations Intern,36000,Gurugram,6
+R00493,C0199,Operations Intern,43000,Bengaluru,1
+R00494,C0200,Strategy Intern,38000,Pune,3
+R00495,C0200,Operations Intern,45000,Pune,4
+R00496,C0201,Cloud Intern,30000,Mumbai,8
+R00497,C0201,QA Intern,47000,Delhi NCR,7
+R00498,C0201,QA Intern,41000,Pune,8
+R00499,C0202,Business Operations Intern,27000,Mumbai,10
+R00500,C0202,Business Operations Intern,30000,Pune,4
+R00501,C0203,Strategy Intern,23000,Delhi NCR,3
+R00502,C0203,Strategy Intern,47000,Bengaluru,3
+R00503,C0203,Strategy Intern,24000,Gurugram,3
+R00504,C0203,Operations Intern,63000,Chennai,8
+R00505,C0204,Quant Intern,49000,Bengaluru,7
+R00506,C0204,Risk Analyst Intern,55000,Pune,8
+R00507,C0204,Finance Analyst Intern,53000,Gurugram,12
+R00508,C0205,Operations Intern,41000,Pune,6
+R00509,C0205,Business Analyst Intern,52000,Remote,2
+R00510,C0205,Operations Intern,32000,Delhi NCR,10
+R00511,C0206,Product Analyst Intern,43000,Chennai,6
+R00512,C0206,Operations Intern,24000,Gurugram,2
+R00513,C0207,Product Intern,14000,Pune,8
+R00514,C0207,Learning Analytics Intern,21000,Chennai,7
+R00515,C0207,Product Intern,21000,Remote,2
+R00516,C0207,Content Strategy Intern,34000,Chennai,11
+R00517,C0208,Operations Intern,46000,Pune,10
+R00518,C0208,Strategy Intern,36000,Chennai,12
+R00519,C0208,Operations Intern,35000,Gurugram,7
+R00520,C0209,Product Intern,26000,Delhi NCR,11
+R00521,C0209,Content Strategy Intern,28000,Hyderabad,4
+R00522,C0210,Process Engineering Intern,24000,Bengaluru,1
+R00523,C0210,Process Engineering Intern,30000,Hyderabad,2
+R00524,C0211,Process Engineering Intern,24000,Pune,4
+R00525,C0211,Supply Chain Intern,24000,Pune,8
+R00526,C0211,Supply Chain Intern,23000,Bengaluru,1
+R00527,C0212,Quant Intern,45000,Gurugram,8
+R00528,C0212,Quant Intern,63000,Gurugram,3
+R00529,C0212,Risk Analyst Intern,47000,Gurugram,11
+R00530,C0213,Process Engineering Intern,12000,Chennai,8
+R00531,C0213,Quality Intern,25000,Delhi NCR,2
+R00532,C0213,Process Engineering Intern,18000,Mumbai,5
+R00533,C0213,Supply Chain Intern,31000,Bengaluru,9
+R00534,C0214,Health Data Intern,23000,Gurugram,8
+R00535,C0214,Product Analyst Intern,40000,Bengaluru,7
+R00536,C0215,Operations Intern,15000,Chennai,4
+R00537,C0215,Design Engineering Intern,20000,Remote,7
+R00538,C0215,Operations Intern,32000,Remote,7
+R00539,C0216,Design Engineering Intern,49000,Hyderabad,7
+R00540,C0216,Operations Intern,22000,Pune,5
+R00541,C0217,Product Analyst Intern,20000,Delhi NCR,2
+R00542,C0217,Operations Intern,33000,Gurugram,10
+R00543,C0217,Product Analyst Intern,38000,Pune,12
+R00544,C0218,Network Engineering Intern,34000,Bengaluru,3
+R00545,C0218,Network Engineering Intern,36000,Pune,5
+R00546,C0218,Network Engineering Intern,42000,Delhi NCR,2
+R00547,C0218,Network Engineering Intern,42000,Bengaluru,8
+R00548,C0219,Electrical Systems Intern,24000,Chennai,8
+R00549,C0219,Operations Intern,37000,Bengaluru,6
+R00550,C0220,Health Data Intern,45000,Pune,7
+R00551,C0221,Customer Analytics Intern,11000,Gurugram,3
+R00552,C0222,Design Engineering Intern,38000,Bengaluru,2
+R00553,C0222,Operations Intern,26000,Delhi NCR,7
+R00554,C0223,Business Analyst Intern,42000,Gurugram,12
+R00555,C0223,Business Analyst Intern,77000,Delhi NCR,8
+R00556,C0223,Strategy Intern,20000,Mumbai,11
+R00557,C0223,Operations Intern,59000,Bengaluru,12
+R00558,C0224,Embedded Systems Intern,31000,Chennai,1
+R00559,C0225,Supply Chain Intern,43000,Delhi NCR,11
+R00560,C0225,Process Engineering Intern,26000,Hyderabad,7
+R00561,C0226,Software Intern,45000,Bengaluru,10
+R00562,C0226,AI/ML Intern,47000,Mumbai,6
+R00563,C0227,Network Engineering Intern,21000,Mumbai,8
+R00564,C0228,Operations Intern,28000,Bengaluru,1
+R00565,C0229,Product Intern,16000,Mumbai,12
+R00566,C0229,Content Strategy Intern,20000,Delhi NCR,6
+R00567,C0229,Product Intern,24000,Chennai,8
+R00568,C0230,Product Intern,36000,Mumbai,5
+R00569,C0230,Learning Analytics Intern,27000,Gurugram,12
+R00570,C0231,Strategy Intern,29000,Delhi NCR,10
+R00571,C0231,Business Analyst Intern,37000,Chennai,6
+R00572,C0231,Operations Intern,41000,Mumbai,2
+R00573,C0231,Operations Intern,33000,Mumbai,8
+R00574,C0232,Data Analyst Intern,39000,Bengaluru,11
+R00575,C0232,Customer Analytics Intern,21000,Remote,12
+R00576,C0232,Data Analyst Intern,34000,Delhi NCR,6
+R00577,C0233,AI/ML Intern,46000,Remote,4
+R00578,C0234,Design Engineering Intern,32000,Chennai,7
+R00579,C0234,Operations Intern,25000,Chennai,2
+R00580,C0234,Embedded Systems Intern,45000,Mumbai,3
+R00581,C0234,Embedded Systems Intern,41000,Delhi NCR,2
+R00582,C0235,Operations Intern,31000,Remote,11
+R00583,C0235,Product Analyst Intern,32000,Pune,1
+R00584,C0235,Health Data Intern,19000,Bengaluru,4
+R00585,C0235,Operations Intern,41000,Gurugram,2
+R00586,C0236,Audit Intern,51000,Chennai,12
+R00587,C0236,Finance Analyst Intern,46000,Pune,9
+R00588,C0236,Quant Intern,54000,Hyderabad,4
+R00589,C0236,Finance Analyst Intern,51000,Hyderabad,12
+R00590,C0237,AI/ML Intern,38000,Delhi NCR,10
+R00591,C0237,Data Analyst Intern,43000,Remote,12
+R00592,C0238,Operations Intern,33000,Gurugram,12
+R00593,C0239,Software Intern,30000,Mumbai,3
+R00594,C0239,Data Analyst Intern,32000,Gurugram,6
+R00595,C0239,Cloud Intern,40000,Chennai,6
+R00596,C0239,Cloud Intern,31000,Delhi NCR,10
+R00597,C0240,QA Intern,53000,Pune,6
+R00598,C0240,QA Intern,56000,Bengaluru,12
+R00599,C0241,Electrical Systems Intern,27000,Bengaluru,9
+R00600,C0242,Product Intern,47000,Delhi NCR,4
+R00601,C0242,Product Intern,37000,Bengaluru,12
+R00602,C0243,Customer Analytics Intern,45000,Mumbai,2
+R00603,C0243,Network Engineering Intern,27000,Gurugram,6
+R00604,C0243,Customer Analytics Intern,38000,Delhi NCR,4
+R00605,C0244,Electrical Systems Intern,37000,Hyderabad,10
+R00606,C0244,Operations Intern,10000,Hyderabad,12
+R00607,C0244,Electrical Systems Intern,44000,Gurugram,3
+R00608,C0245,Product Intern,33000,Hyderabad,10
+R00609,C0245,Product Intern,11000,Pune,1
+R00610,C0245,Learning Analytics Intern,24000,Bengaluru,6
+R00611,C0245,Content Strategy Intern,11000,Remote,7
+R00612,C0246,Product Intern,31000,Bengaluru,11
+R00613,C0247,Business Analyst Intern,36000,Pune,9
+R00614,C0247,Business Analyst Intern,55000,Chennai,9
+R00615,C0247,Operations Intern,45000,Delhi NCR,3
+R00616,C0247,Strategy Intern,58000,Gurugram,10
+R00617,C0248,Health Data Intern,35000,Remote,5
+R00618,C0249,Design Engineering Intern,37000,Bengaluru,9
+R00619,C0249,Design Engineering Intern,39000,Pune,2
+R00620,C0249,Operations Intern,22000,Mumbai,3
+R00621,C0249,Design Engineering Intern,38000,Delhi NCR,8
+R00622,C0250,Customer Analytics Intern,29000,Delhi NCR,4
+R00623,C0250,Network Engineering Intern,28000,Pune,7
+R00624,C0250,Network Engineering Intern,22000,Hyderabad,11
+R00625,C0250,Data Analyst Intern,56000,Remote,6
+R00626,C0251,Business Operations Intern,41000,Bengaluru,5
+R00627,C0251,Growth Analyst Intern,47000,Chennai,10
+R00628,C0251,Business Operations Intern,46000,Mumbai,8
+R00629,C0252,Risk Analyst Intern,32000,Delhi NCR,11
+R00630,C0253,Learning Analytics Intern,35000,Hyderabad,12
+R00631,C0253,Learning Analytics Intern,40000,Delhi NCR,10
+R00632,C0253,Content Strategy Intern,45000,Bengaluru,6
+R00633,C0254,Product Analyst Intern,20000,Gurugram,8
+R00634,C0255,Network Engineering Intern,25000,Delhi NCR,9
+R00635,C0256,Quality Intern,43000,Gurugram,10
+R00636,C0256,Quality Intern,27000,Bengaluru,7
+R00637,C0256,Quality Intern,21000,Bengaluru,5
+R00638,C0257,Quant Intern,56000,Bengaluru,8
+R00639,C0257,Finance Analyst Intern,52000,Hyderabad,7
+R00640,C0258,Product Analyst Intern,17000,Hyderabad,1
+R00641,C0258,Product Analyst Intern,9000,Remote,4
+R00642,C0258,Operations Intern,43000,Hyderabad,6
+R00643,C0259,Product Intern,24000,Hyderabad,3
+R00644,C0259,Product Intern,35000,Bengaluru,1
+R00645,C0259,Learning Analytics Intern,53000,Pune,6
+R00646,C0259,Learning Analytics Intern,8000,Chennai,11
+R00647,C0260,Product Intern,39000,Pune,4
+R00648,C0260,Product Intern,68000,Bengaluru,11
+R00649,C0260,Product Intern,37000,Remote,1
+R00650,C0261,Design Engineering Intern,33000,Mumbai,2
+R00651,C0261,Operations Intern,41000,Remote,9
+R00652,C0261,Operations Intern,46000,Delhi NCR,7
+R00653,C0262,Product Intern,22000,Mumbai,7
+R00654,C0262,Content Strategy Intern,49000,Gurugram,9
+R00655,C0263,Business Analyst Intern,37000,Mumbai,10
+R00656,C0263,Business Analyst Intern,22000,Pune,12
+R00657,C0264,Content Strategy Intern,20000,Mumbai,11
+R00658,C0264,Content Strategy Intern,48000,Hyderabad,9
+R00659,C0265,Health Data Intern,19000,Chennai,3
+R00660,C0266,Product Intern,40000,Remote,5
+R00661,C0267,Operations Intern,9000,Pune,3
+R00662,C0267,Embedded Systems Intern,32000,Bengaluru,10
+R00663,C0267,Operations Intern,26000,Pune,10
+R00664,C0267,Embedded Systems Intern,24000,Delhi NCR,11
+R00665,C0268,Strategy Intern,38000,Hyderabad,12
+R00666,C0269,Data Analyst Intern,48000,Chennai,3
+R00667,C0269,Data Analyst Intern,49000,Gurugram,8
+R00668,C0269,Network Engineering Intern,38000,Remote,1
+R00669,C0269,Data Analyst Intern,39000,Remote,4
+R00670,C0270,Audit Intern,50000,Gurugram,12
+R00671,C0270,Quant Intern,45000,Gurugram,4
+R00672,C0271,Operations Intern,39000,Remote,12
+R00673,C0271,Strategy Intern,43000,Remote,10
+R00674,C0271,Operations Intern,55000,Bengaluru,9
+R00675,C0271,Business Analyst Intern,36000,Gurugram,8
+R00676,C0272,AI/ML Intern,50000,Remote,12
+R00677,C0273,Operations Intern,24000,Remote,9
+R00678,C0274,Data Analyst Intern,38000,Pune,8
+R00679,C0275,Process Engineering Intern,39000,Pune,10
+R00680,C0275,Supply Chain Intern,42000,Gurugram,11
+R00681,C0276,Learning Analytics Intern,17000,Hyderabad,3
+R00682,C0276,Product Intern,30000,Mumbai,7
+R00683,C0276,Content Strategy Intern,8000,Chennai,8
+R00684,C0276,Product Intern,37000,Delhi NCR,8
+R00685,C0277,Product Analyst Intern,31000,Chennai,12
+R00686,C0278,Supply Chain Intern,26000,Gurugram,11
+R00687,C0278,Process Engineering Intern,22000,Hyderabad,9
+R00688,C0279,Operations Intern,27000,Mumbai,7
+R00689,C0279,Operations Intern,8000,Remote,1
+R00690,C0279,Operations Intern,34000,Mumbai,3
+R00691,C0279,Embedded Systems Intern,8000,Mumbai,12
+R00692,C0280,Audit Intern,41000,Pune,11
+R00693,C0281,Learning Analytics Intern,30000,Mumbai,4
+R00694,C0281,Learning Analytics Intern,44000,Gurugram,8
+R00695,C0282,AI/ML Intern,45000,Bengaluru,10
+R00696,C0282,AI/ML Intern,51000,Gurugram,8
+R00697,C0282,QA Intern,39000,Gurugram,2
+R00698,C0282,AI/ML Intern,43000,Pune,10
+R00699,C0283,Growth Analyst Intern,37000,Mumbai,3
+R00700,C0283,Growth Analyst Intern,47000,Bengaluru,11
+R00701,C0284,Product Analyst Intern,33000,Hyderabad,1
+R00702,C0284,Health Data Intern,57000,Pune,10
+R00703,C0284,Operations Intern,52000,Mumbai,8
+R00704,C0285,Cloud Intern,49000,Chennai,6
+R00705,C0285,QA Intern,42000,Hyderabad,7
+R00706,C0285,QA Intern,47000,Mumbai,2
+R00707,C0286,Electrical Systems Intern,26000,Remote,9
+R00708,C0286,Sustainability Analyst Intern,31000,Hyderabad,10
+R00709,C0286,Operations Intern,37000,Hyderabad,8
+R00710,C0287,Product Analyst Intern,10000,Chennai,3
+R00711,C0287,Operations Intern,39000,Gurugram,9
+R00712,C0287,Health Data Intern,28000,Delhi NCR,12
+R00713,C0288,Learning Analytics Intern,13000,Bengaluru,2
+R00714,C0288,Learning Analytics Intern,41000,Delhi NCR,10
+R00715,C0288,Content Strategy Intern,28000,Remote,1
+R00716,C0289,Sustainability Analyst Intern,18000,Bengaluru,11
+R00717,C0289,Sustainability Analyst Intern,46000,Pune,5
+R00718,C0289,Operations Intern,32000,Chennai,1
+R00719,C0290,Business Operations Intern,28000,Chennai,6
+R00720,C0291,Finance Analyst Intern,47000,Mumbai,4
+R00721,C0291,Quant Intern,34000,Chennai,11
+R00722,C0291,Finance Analyst Intern,37000,Mumbai,8
+R00723,C0291,Risk Analyst Intern,51000,Gurugram,9
+R00724,C0292,Operations Intern,10000,Bengaluru,9
+R00725,C0292,Product Analyst Intern,34000,Chennai,9
+R00726,C0292,Operations Intern,22000,Chennai,6
+R00727,C0293,Sustainability Analyst Intern,28000,Pune,1
+R00728,C0294,Embedded Systems Intern,47000,Remote,3
+R00729,C0294,Operations Intern,30000,Hyderabad,5
+R00730,C0294,Embedded Systems Intern,29000,Pune,7
+R00731,C0295,Content Strategy Intern,16000,Delhi NCR,6
+R00732,C0296,Operations Intern,34000,Pune,3
+R00733,C0296,Sustainability Analyst Intern,21000,Chennai,1
+R00734,C0296,Electrical Systems Intern,34000,Bengaluru,8
+R00735,C0296,Operations Intern,8000,Mumbai,4
+R00736,C0297,Quality Intern,43000,Pune,6
+R00737,C0297,Supply Chain Intern,19000,Hyderabad,9
+R00738,C0297,Quality Intern,25000,Bengaluru,8
+R00739,C0298,Product Intern,20000,Hyderabad,1
+R00740,C0298,Product Intern,24000,Hyderabad,6
+R00741,C0298,Content Strategy Intern,29000,Bengaluru,2
+R00742,C0298,Content Strategy Intern,9000,Bengaluru,10
+R00743,C0299,Quality Intern,25000,Delhi NCR,6
+R00744,C0299,Quality Intern,30000,Chennai,8
+R00745,C0299,Quality Intern,36000,Hyderabad,5
+R00746,C0300,Finance Analyst Intern,52000,Delhi NCR,9
+R00747,C0300,Quant Intern,54000,Chennai,5
+R00748,C0301,Product Intern,44000,Delhi NCR,3
+R00749,C0301,Learning Analytics Intern,19000,Pune,10
+R00750,C0302,Sustainability Analyst Intern,26000,Gurugram,11
+R00751,C0302,Sustainability Analyst Intern,29000,Hyderabad,7
+R00752,C0302,Sustainability Analyst Intern,40000,Gurugram,10
+R00753,C0303,Process Engineering Intern,31000,Chennai,4
+R00754,C0303,Quality Intern,24000,Hyderabad,8
+R00755,C0303,Quality Intern,12000,Mumbai,2
+R00756,C0304,Customer Analytics Intern,41000,Gurugram,8
+R00757,C0304,Network Engineering Intern,39000,Delhi NCR,3
+R00758,C0304,Data Analyst Intern,43000,Remote,3
+R00759,C0304,Customer Analytics Intern,22000,Chennai,6
+R00760,C0305,Learning Analytics Intern,21000,Chennai,8
+R00761,C0305,Content Strategy Intern,26000,Mumbai,5
+R00762,C0305,Learning Analytics Intern,27000,Hyderabad,7
+R00763,C0305,Product Intern,11000,Hyderabad,6
+R00764,C0306,Strategy Intern,45000,Remote,4
+R00765,C0307,Operations Intern,18000,Mumbai,8
+R00766,C0307,Operations Intern,24000,Remote,7
+R00767,C0308,Operations Intern,38000,Delhi NCR,3
+R00768,C0308,Operations Intern,29000,Gurugram,2
+R00769,C0308,Operations Intern,28000,Gurugram,6
+R00770,C0309,Process Engineering Intern,30000,Hyderabad,10
+R00771,C0310,Business Operations Intern,31000,Remote,6
+R00772,C0311,Sustainability Analyst Intern,27000,Mumbai,10
+R00773,C0311,Operations Intern,26000,Bengaluru,3
+R00774,C0311,Electrical Systems Intern,23000,Remote,10
+R00775,C0311,Operations Intern,19000,Gurugram,4
+R00776,C0312,Operations Intern,25000,Pune,7
+R00777,C0312,Operations Intern,21000,Chennai,2
+R00778,C0313,Supply Chain Intern,17000,Pune,1
+R00779,C0314,Operations Intern,21000,Bengaluru,1
+R00780,C0314,Product Analyst Intern,24000,Hyderabad,5
+R00781,C0314,Health Data Intern,10000,Delhi NCR,7
+R00782,C0315,Product Intern,25000,Remote,7
+R00783,C0315,Business Operations Intern,25000,Delhi NCR,11
+R00784,C0315,Business Operations Intern,40000,Remote,6
+R00785,C0315,Product Intern,43000,Mumbai,5
+R00786,C0316,Business Analyst Intern,44000,Mumbai,12
+R00787,C0316,Strategy Intern,45000,Remote,3
+R00788,C0317,Design Engineering Intern,44000,Remote,10
+R00789,C0318,Audit Intern,65000,Remote,9
+R00790,C0318,Risk Analyst Intern,54000,Mumbai,7
+R00791,C0319,Operations Intern,22000,Gurugram,12
+R00792,C0320,Operations Intern,39000,Chennai,1
+R00793,C0320,Business Analyst Intern,33000,Gurugram,12
+R00794,C0321,Operations Intern,39000,Hyderabad,3
+R00795,C0321,Operations Intern,38000,Pune,8
+R00796,C0321,Operations Intern,16000,Hyderabad,4
+R00797,C0322,Product Intern,24000,Hyderabad,11
+R00798,C0322,Content Strategy Intern,12000,Bengaluru,6
+R00799,C0322,Product Intern,11000,Bengaluru,8
+R00800,C0322,Product Intern,8000,Chennai,7
+R00801,C0323,Data Analyst Intern,40000,Pune,3
+R00802,C0323,Customer Analytics Intern,58000,Pune,12
+R00803,C0323,Customer Analytics Intern,39000,Pune,1
+R00804,C0324,Operations Intern,17000,Pune,12
+R00805,C0324,Operations Intern,23000,Bengaluru,5
+R00806,C0324,Health Data Intern,24000,Pune,5
+R00807,C0324,Health Data Intern,30000,Pune,5
+R00808,C0325,Data Analyst Intern,50000,Mumbai,11
+R00809,C0325,QA Intern,45000,Chennai,3
+R00810,C0325,QA Intern,43000,Mumbai,9

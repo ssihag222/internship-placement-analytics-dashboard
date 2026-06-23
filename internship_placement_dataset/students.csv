@@ -1,0 +1,316 @@
+student_id,student_name,department,cgpa,graduation_year
+S0001,Anaya Nair,Mechanical,7.96,2026
+S0002,Karan Iyer,Electrical,7.53,2026
+S0003,Anaya Kumar,Mechanical,7.73,2026
+S0004,Karan Gupta,Mechanical,7.51,2026
+S0005,Rahul Mishra,Electrical,7.25,2026
+S0006,Aarav Patel,Information Technology,7.35,2026
+S0007,Aadhya Reddy,Civil,7.25,2026
+S0008,Vihaan Jain,Computer Science,8.47,2026
+S0009,Rahul Chopra,Data Science,7.26,2026
+S0010,Riya Iyer,Computer Science,7.43,2026
+S0011,Kiara Mishra,Mechanical,7.88,2026
+S0012,Aditya Verma,Computer Science,7.36,2026
+S0013,Anaya Reddy,Civil,7.72,2026
+S0014,Rahul Jain,Information Technology,6.13,2026
+S0015,Aditya Agarwal,Computer Science,7.56,2026
+S0016,Karan Mehta,Mechanical,8.21,2026
+S0017,Karan Mehta,Computer Science,6.72,2026
+S0018,Vivaan Mehta,Civil,8.80,2026
+S0019,Aditya Gupta,Data Science,8.42,2026
+S0020,Meera Das,Data Science,7.58,2026
+S0021,Rahul Nair,Computer Science,6.80,2026
+S0022,Anaya Chopra,Information Technology,8.01,2026
+S0023,Meera Menon,Electronics,7.44,2026
+S0024,Arjun Kumar,Information Technology,7.31,2026
+S0025,Arjun Patel,Electronics,7.50,2026
+S0026,Kabir Agarwal,Data Science,6.91,2026
+S0027,Neha Rao,Computer Science,6.56,2026
+S0028,Aarav Reddy,Business Analytics,9.32,2026
+S0029,Aadhya Reddy,Civil,6.95,2026
+S0030,Sai Joshi,Information Technology,7.88,2026
+S0031,Neha Patel,Computer Science,7.97,2026
+S0032,Vihaan Singh,Electronics,6.43,2026
+S0033,Kiara Patel,Data Science,7.77,2026
+S0034,Neha Sharma,Electronics,7.43,2026
+S0035,Kiara Singh,Mechanical,7.13,2026
+S0036,Anaya Mishra,Computer Science,8.17,2026
+S0037,Aditya Chopra,Business Analytics,8.49,2026
+S0038,Arjun Bose,Electrical,7.83,2026
+S0039,Rohan Kapoor,Business Analytics,8.25,2026
+S0040,Karan Gupta,Business Analytics,8.54,2026
+S0041,Kiara Joshi,Electrical,6.67,2026
+S0042,Rahul Reddy,Data Science,8.78,2026
+S0043,Karan Mehta,Information Technology,8.12,2026
+S0044,Aarav Iyer,Mechanical,7.50,2026
+S0045,Vivaan Das,Civil,7.68,2026
+S0046,Anaya Rao,Computer Science,8.24,2026
+S0047,Meera Mishra,Civil,7.53,2026
+S0048,Priya Kapoor,Electronics,7.79,2026
+S0049,Kabir Kapoor,Computer Science,8.72,2026
+S0050,Vivaan Reddy,Electronics,7.84,2026
+S0051,Vihaan Mehta,Computer Science,7.99,2026
+S0052,Karan Joshi,Computer Science,6.99,2026
+S0053,Aditya Joshi,Computer Science,8.44,2026
+S0054,Karan Reddy,Data Science,8.86,2026
+S0055,Aditya Mehta,Computer Science,9.39,2026
+S0056,Priya Bose,Computer Science,8.14,2026
+S0057,Riya Sharma,Computer Science,7.97,2026
+S0058,Diya Joshi,Business Analytics,7.98,2026
+S0059,Karan Bose,Information Technology,7.65,2026
+S0060,Myra Gupta,Computer Science,7.16,2026
+S0061,Aadhya Verma,Business Analytics,7.14,2026
+S0062,Priya Kumar,Computer Science,7.76,2026
+S0063,Neha Iyer,Data Science,7.98,2026
+S0064,Aditya Agarwal,Data Science,8.16,2026
+S0065,Meera Mehta,Computer Science,8.58,2026
+S0066,Vivaan Agarwal,Mechanical,6.95,2026
+S0067,Aadhya Rao,Computer Science,7.69,2026
+S0068,Aadhya Mehta,Computer Science,7.45,2026
+S0069,Rahul Das,Information Technology,8.64,2026
+S0070,Aditya Sharma,Business Analytics,8.54,2026
+S0071,Aditya Chopra,Electronics,9.61,2026
+S0072,Diya Nair,Computer Science,8.13,2026
+S0073,Kiara Singh,Business Analytics,8.83,2026
+S0074,Karan Singh,Computer Science,7.24,2026
+S0075,Aarav Chopra,Mechanical,8.39,2026
+S0076,Vihaan Nair,Information Technology,7.92,2026
+S0077,Arjun Rao,Information Technology,8.82,2026
+S0078,Ishaan Das,Information Technology,7.32,2026
+S0079,Priya Rao,Computer Science,7.81,2026
+S0080,Vivaan Iyer,Data Science,7.82,2026
+S0081,Aadhya Nair,Mechanical,7.54,2026
+S0082,Diya Patel,Mechanical,7.28,2026
+S0083,Aarav Reddy,Electrical,6.80,2026
+S0084,Arjun Chopra,Computer Science,7.93,2026
+S0085,Kabir Nair,Computer Science,7.59,2026
+S0086,Kiara Verma,Computer Science,8.75,2026
+S0087,Vihaan Jain,Data Science,8.32,2026
+S0088,Kabir Agarwal,Electrical,7.93,2026
+S0089,Sai Patel,Electrical,7.88,2026
+S0090,Aarav Patel,Data Science,7.99,2026
+S0091,Anaya Rao,Electrical,6.71,2026
+S0092,Vihaan Menon,Computer Science,9.46,2026
+S0093,Rahul Jain,Data Science,8.49,2026
+S0094,Anaya Mehta,Information Technology,7.64,2026
+S0095,Aditya Rao,Computer Science,8.35,2026
+S0096,Neha Menon,Information Technology,8.54,2026
+S0097,Aarav Reddy,Civil,7.77,2026
+S0098,Diya Patel,Data Science,7.72,2026
+S0099,Rohan Kapoor,Mechanical,7.63,2026
+S0100,Aadhya Kapoor,Information Technology,7.98,2026
+S0101,Meera Gupta,Mechanical,6.81,2026
+S0102,Kabir Sharma,Information Technology,7.95,2026
+S0103,Ishaan Jain,Electronics,7.79,2026
+S0104,Aadhya Agarwal,Electronics,6.52,2026
+S0105,Myra Kumar,Information Technology,8.60,2026
+S0106,Kabir Das,Information Technology,7.15,2026
+S0107,Kabir Menon,Information Technology,7.90,2026
+S0108,Sai Agarwal,Civil,7.78,2026
+S0109,Myra Singh,Mechanical,6.43,2026
+S0110,Meera Agarwal,Computer Science,8.84,2026
+S0111,Ishaan Kumar,Civil,6.76,2026
+S0112,Sai Iyer,Electronics,7.60,2026
+S0113,Aditya Mehta,Information Technology,7.53,2026
+S0114,Anaya Gupta,Civil,6.68,2026
+S0115,Rohan Iyer,Computer Science,9.90,2026
+S0116,Meera Gupta,Electronics,7.98,2026
+S0117,Arjun Sharma,Electrical,6.96,2026
+S0118,Vihaan Kapoor,Data Science,8.64,2026
+S0119,Rahul Verma,Computer Science,8.48,2026
+S0120,Vihaan Joshi,Mechanical,6.50,2026
+S0121,Karan Agarwal,Computer Science,7.37,2026
+S0122,Rahul Agarwal,Information Technology,8.18,2026
+S0123,Karan Joshi,Data Science,8.73,2026
+S0124,Priya Joshi,Data Science,7.77,2026
+S0125,Neha Bose,Information Technology,8.02,2026
+S0126,Diya Joshi,Mechanical,8.38,2026
+S0127,Aadhya Chopra,Computer Science,8.03,2026
+S0128,Arjun Mehta,Computer Science,8.65,2026
+S0129,Kabir Kapoor,Information Technology,8.26,2026
+S0130,Rahul Kapoor,Information Technology,8.37,2026
+S0131,Meera Sharma,Computer Science,8.47,2026
+S0132,Meera Menon,Data Science,7.64,2026
+S0133,Riya Kapoor,Electronics,7.96,2026
+S0134,Karan Agarwal,Electronics,7.26,2026
+S0135,Priya Sharma,Data Science,7.68,2026
+S0136,Riya Patel,Information Technology,8.04,2026
+S0137,Karan Sharma,Data Science,9.80,2026
+S0138,Meera Mishra,Data Science,7.32,2026
+S0139,Rahul Patel,Civil,8.04,2026
+S0140,Riya Das,Computer Science,8.50,2026
+S0141,Riya Rao,Computer Science,7.64,2026
+S0142,Kabir Rao,Electrical,8.42,2026
+S0143,Vivaan Jain,Data Science,7.14,2026
+S0144,Aditya Verma,Computer Science,8.35,2026
+S0145,Aarav Agarwal,Electrical,7.86,2026
+S0146,Arjun Bose,Computer Science,8.02,2026
+S0147,Diya Jain,Civil,7.03,2026
+S0148,Rohan Reddy,Computer Science,7.97,2026
+S0149,Meera Sharma,Electrical,7.74,2026
+S0150,Meera Menon,Business Analytics,8.33,2026
+S0151,Anaya Reddy,Information Technology,7.94,2026
+S0152,Myra Agarwal,Civil,7.20,2026
+S0153,Vivaan Jain,Data Science,8.44,2026
+S0154,Kiara Iyer,Electronics,6.65,2026
+S0155,Priya Reddy,Electronics,6.76,2026
+S0156,Kiara Joshi,Electronics,8.51,2026
+S0157,Diya Agarwal,Civil,6.48,2026
+S0158,Karan Bose,Data Science,8.62,2026
+S0159,Aadhya Mehta,Electronics,7.85,2026
+S0160,Aditya Rao,Data Science,7.43,2026
+S0161,Rohan Menon,Data Science,8.23,2026
+S0162,Priya Das,Information Technology,8.73,2026
+S0163,Aadhya Rao,Computer Science,8.42,2026
+S0164,Diya Chopra,Data Science,9.33,2026
+S0165,Kabir Bose,Computer Science,8.41,2026
+S0166,Anaya Bose,Mechanical,7.36,2026
+S0167,Aditya Singh,Civil,6.30,2026
+S0168,Anaya Singh,Computer Science,8.22,2026
+S0169,Kiara Kapoor,Civil,6.89,2026
+S0170,Karan Das,Business Analytics,8.46,2026
+S0171,Anaya Reddy,Information Technology,7.47,2026
+S0172,Aadhya Reddy,Electrical,7.61,2026
+S0173,Ishaan Gupta,Electrical,8.40,2026
+S0174,Diya Mishra,Electrical,7.15,2026
+S0175,Vihaan Gupta,Business Analytics,7.33,2026
+S0176,Kiara Patel,Information Technology,7.92,2026
+S0177,Vivaan Verma,Information Technology,7.91,2026
+S0178,Arjun Bose,Mechanical,7.12,2026
+S0179,Priya Joshi,Computer Science,8.68,2026
+S0180,Vivaan Rao,Information Technology,8.04,2026
+S0181,Riya Bose,Business Analytics,6.65,2026
+S0182,Vivaan Nair,Computer Science,8.32,2026
+S0183,Anaya Reddy,Computer Science,7.64,2026
+S0184,Kabir Agarwal,Mechanical,7.24,2026
+S0185,Riya Joshi,Mechanical,6.62,2026
+S0186,Myra Mishra,Data Science,7.44,2026
+S0187,Rohan Reddy,Business Analytics,7.54,2026
+S0188,Ishaan Gupta,Business Analytics,8.70,2026
+S0189,Karan Iyer,Information Technology,8.42,2026
+S0190,Kabir Joshi,Computer Science,8.39,2026
+S0191,Myra Singh,Civil,7.29,2026
+S0192,Rahul Iyer,Civil,7.48,2026
+S0193,Meera Gupta,Civil,8.47,2026
+S0194,Karan Mehta,Electronics,6.92,2026
+S0195,Aditya Verma,Civil,8.47,2026
+S0196,Myra Agarwal,Computer Science,7.49,2026
+S0197,Vihaan Joshi,Electrical,6.96,2026
+S0198,Riya Rao,Civil,7.22,2026
+S0199,Vivaan Kapoor,Electronics,7.18,2026
+S0200,Rohan Rao,Electrical,7.46,2026
+S0201,Meera Mishra,Computer Science,8.28,2026
+S0202,Diya Mishra,Business Analytics,8.82,2026
+S0203,Rahul Rao,Computer Science,8.18,2026
+S0204,Meera Kapoor,Computer Science,7.42,2026
+S0205,Kiara Kapoor,Mechanical,7.17,2026
+S0206,Vihaan Patel,Information Technology,8.01,2026
+S0207,Riya Chopra,Information Technology,7.81,2026
+S0208,Aditya Das,Computer Science,7.65,2026
+S0209,Neha Sharma,Information Technology,8.83,2026
+S0210,Karan Joshi,Civil,8.19,2026
+S0211,Priya Joshi,Information Technology,8.24,2026
+S0212,Ishaan Rao,Electrical,8.02,2026
+S0213,Priya Reddy,Electronics,8.08,2026
+S0214,Rohan Mehta,Computer Science,7.84,2026
+S0215,Kabir Iyer,Civil,7.41,2026
+S0216,Vihaan Joshi,Computer Science,8.25,2026
+S0217,Myra Kumar,Business Analytics,7.62,2026
+S0218,Kabir Bose,Civil,7.15,2026
+S0219,Riya Gupta,Business Analytics,7.88,2026
+S0220,Neha Nair,Business Analytics,8.67,2026
+S0221,Kabir Das,Data Science,8.01,2026
+S0222,Neha Rao,Business Analytics,8.98,2026
+S0223,Meera Mishra,Data Science,8.09,2026
+S0224,Priya Nair,Business Analytics,8.39,2026
+S0225,Karan Menon,Electronics,6.87,2026
+S0226,Aadhya Gupta,Electronics,7.51,2026
+S0227,Kabir Verma,Business Analytics,7.89,2026
+S0228,Priya Menon,Information Technology,8.64,2026
+S0229,Arjun Bose,Information Technology,7.38,2026
+S0230,Arjun Kumar,Business Analytics,6.82,2026
+S0231,Rahul Reddy,Business Analytics,7.70,2026
+S0232,Rahul Sharma,Electronics,7.71,2026
+S0233,Arjun Iyer,Electrical,6.65,2026
+S0234,Diya Das,Electronics,7.96,2026
+S0235,Aadhya Chopra,Mechanical,7.24,2026
+S0236,Aadhya Bose,Information Technology,8.16,2026
+S0237,Myra Mehta,Data Science,8.44,2026
+S0238,Kabir Reddy,Electrical,7.50,2026
+S0239,Sai Singh,Electrical,7.36,2026
+S0240,Vivaan Das,Data Science,7.91,2026
+S0241,Arjun Mehta,Data Science,8.03,2026
+S0242,Meera Patel,Electronics,8.06,2026
+S0243,Rohan Mehta,Computer Science,9.31,2026
+S0244,Meera Nair,Electronics,8.08,2026
+S0245,Aarav Joshi,Computer Science,7.68,2026
+S0246,Karan Patel,Data Science,7.65,2026
+S0247,Myra Kapoor,Computer Science,9.90,2026
+S0248,Rahul Singh,Civil,6.80,2026
+S0249,Anaya Menon,Computer Science,7.59,2026
+S0250,Meera Singh,Mechanical,7.94,2026
+S0251,Riya Rao,Business Analytics,7.35,2026
+S0252,Vivaan Agarwal,Computer Science,9.87,2026
+S0253,Anaya Agarwal,Electrical,8.15,2026
+S0254,Anaya Gupta,Data Science,6.98,2026
+S0255,Arjun Reddy,Mechanical,6.99,2026
+S0256,Vivaan Singh,Data Science,7.27,2026
+S0257,Arjun Iyer,Electrical,8.06,2026
+S0258,Aadhya Kapoor,Data Science,8.33,2026
+S0259,Kiara Kumar,Computer Science,8.70,2026
+S0260,Diya Patel,Electronics,8.05,2026
+S0261,Myra Das,Information Technology,8.34,2026
+S0262,Rahul Iyer,Data Science,7.54,2026
+S0263,Riya Chopra,Computer Science,9.41,2026
+S0264,Riya Sharma,Information Technology,7.73,2026
+S0265,Diya Mishra,Information Technology,8.44,2026
+S0266,Kiara Reddy,Information Technology,8.44,2026
+S0267,Karan Das,Civil,6.56,2026
+S0268,Anaya Iyer,Data Science,8.36,2026
+S0269,Kabir Reddy,Mechanical,6.47,2026
+S0270,Vivaan Singh,Computer Science,8.37,2026
+S0271,Karan Nair,Business Analytics,8.20,2026
+S0272,Kiara Chopra,Information Technology,8.32,2026
+S0273,Kabir Reddy,Information Technology,7.98,2026
+S0274,Rohan Kapoor,Data Science,7.82,2026
+S0275,Ishaan Joshi,Business Analytics,7.67,2026
+S0276,Anaya Jain,Electronics,8.43,2026
+S0277,Kiara Verma,Computer Science,7.83,2026
+S0278,Ishaan Reddy,Information Technology,7.25,2026
+S0279,Ishaan Agarwal,Business Analytics,7.98,2026
+S0280,Vivaan Das,Business Analytics,7.60,2026
+S0281,Aditya Chopra,Information Technology,8.59,2026
+S0282,Ishaan Mehta,Computer Science,8.75,2026
+S0283,Aarav Rao,Information Technology,8.84,2026
+S0284,Arjun Nair,Data Science,9.32,2026
+S0285,Aarav Nair,Electronics,7.54,2026
+S0286,Anaya Mishra,Computer Science,7.85,2026
+S0287,Kabir Kumar,Information Technology,8.10,2026
+S0288,Aditya Bose,Computer Science,8.34,2026
+S0289,Rahul Kumar,Electronics,6.89,2026
+S0290,Rohan Verma,Computer Science,8.81,2026
+S0291,Myra Joshi,Electrical,8.25,2026
+S0292,Aarav Verma,Civil,6.93,2026
+S0293,Vihaan Bose,Business Analytics,8.24,2026
+S0294,Rahul Iyer,Electrical,6.89,2026
+S0295,Arjun Rao,Data Science,8.04,2026
+S0296,Meera Chopra,Mechanical,7.78,2026
+S0297,Myra Joshi,Electrical,6.81,2026
+S0298,Kabir Reddy,Electronics,8.05,2026
+S0299,Karan Gupta,Data Science,8.91,2026
+S0300,Anaya Kapoor,Electronics,8.07,2026
+S0301,Vihaan Das,Information Technology,7.35,2026
+S0302,Diya Jain,Electronics,7.64,2026
+S0303,Aditya Iyer,Business Analytics,7.57,2026
+S0304,Vihaan Jain,Computer Science,7.47,2026
+S0305,Karan Chopra,Data Science,7.39,2026
+S0306,Vihaan Kapoor,Information Technology,7.70,2026
+S0307,Vivaan Singh,Information Technology,7.45,2026
+S0308,Kiara Reddy,Mechanical,6.52,2026
+S0309,Anaya Reddy,Mechanical,7.67,2026
+S0310,Karan Jain,Information Technology,8.92,2026
+S0311,Kabir Chopra,Computer Science,8.07,2026
+S0312,Rohan Agarwal,Business Analytics,8.31,2026
+S0313,Diya Sharma,Civil,6.62,2026
+S0314,Myra Das,Computer Science,7.84,2026
+S0315,Riya Iyer,Information Technology,8.15,2026
